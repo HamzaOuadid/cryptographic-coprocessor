@@ -4,6 +4,7 @@ use IEEE.numeric_std.all;
 -- fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 -- VHDL project: Cryptographic coprocessor Design in VHDL
 -- VHDL code for 16x16 bit Register File( Read/Write Synchronous)
+--//Yassin//Hamza
 entity register_file is
 port ( clock: in std_logic; -- clock 
    reset: in std_logic; -- reset
