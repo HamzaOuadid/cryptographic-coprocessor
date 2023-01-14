@@ -3,6 +3,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 -- fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 -- VHDL project: Cryptographic coprocessor Design in VHDL
 -- VHDL code for Combinational Logic unit of the coprocessor
+--yassin hamza
 entity structural_VHDL is
 port ( A_BUS: in std_logic_vector(15 downto 0);
    B_BUS: in std_logic_vector(15 downto 0);
